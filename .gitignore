@@ -2,3 +2,4 @@
 word2vec_model_from_corpus.bin
 word2vec_model_from_corpus.bin.syn1neg.npy
 word2vec_model_from_corpus.bin.wv.vectors.npy
+.env
